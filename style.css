@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background-color: #ffe6ea;
+}
+
+h1 {
+  color: #ff3366;
+}
+
+button {
+  background-color: #ff3366;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+}
+
+img{
+  border-radius:10px;
+  margin:10px;
+}
+
+div{
+  display:inline-block;
+  text-align:center;
+  margin:20px;
+}
